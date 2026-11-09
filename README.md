@@ -18,7 +18,7 @@
 
 | Economía y negocio | Business Intelligence | Datos y modelado |
 |---|---|---|
-| Precios, rentabilidad y mercados, con datos públicos y de empresas | Modelos semánticos y reportes en Power BI y Microsoft Fabric | SQL, Python y econometría |
+| Precios, rentabilidad, mercados y economía | Modelos semánticos y reportes en Power BI y Microsoft Fabric | SQL, Python y econometría |
 
 ### Herramientas
 ![Power BI](https://img.shields.io/badge/Power_BI-4A6785?style=flat-square)
@@ -52,6 +52,3 @@
 |---|---|
 | [Análisis de datos móviles](https://github.com/ErnestRr/process-mobiles-analytics) | Procesamiento y análisis de datos de dispositivos móviles |
 | [Modelos de machine learning](https://github.com/ErnestRr/analisis-de-data) | Clasificación, regresión y recomendación con Python |
-
-### Análisis completos
-En [ernestoroldan.com](https://ernestoroldan.com), con metodología y código aquí en GitHub.
