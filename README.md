@@ -18,7 +18,7 @@
 
 | Economía y negocio | Business Intelligence | Datos y modelado |
 |---|---|---|
-| Precios, rentabilidad y mercados, con datos públicos y de empresas | Modelos semánticos y reportes en Power BI y Microsoft Fabric | SQL, Python, econometría y machine learning |
+| Precios, rentabilidad y mercados, con datos públicos y de empresas | Modelos semánticos y reportes en Power BI y Microsoft Fabric | SQL, Python y econometría |
 
 ### Herramientas
 ![Power BI](https://img.shields.io/badge/Power_BI-4A6785?style=flat-square)
