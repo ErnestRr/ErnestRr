@@ -18,7 +18,7 @@
 
 | Economía y negocio | Business Intelligence | Datos y modelado |
 |---|---|---|
-| Precios, rentabilidad y mercados, con datos públicos y de empresas | Modelos semánticos y reportes en Power BI y Microsoft Fabric | SQL, Python y econometría |
+| Precios, rentabilidad y mercados | Modelos semánticos y reportes en Power BI y Microsoft Fabric | SQL, Python y econometría |
 
 ### Herramientas
 ![Power BI](https://img.shields.io/badge/Power_BI-4A6785?style=flat-square)
@@ -28,9 +28,13 @@
 ![DAX](https://img.shields.io/badge/DAX-4A6785?style=flat-square)
 ![Power Query](https://img.shields.io/badge/Power_Query-4A6785?style=flat-square)
 
-### Proyecto destacado
-**[Arquitectura Medallion y BI para rentabilidad logística en e-commerce](https://github.com/ErnestRr/msfabric-ecommerce-delivery)**
-Datos fragmentados convertidos en margen real por producto, con costos de envío y devoluciones incluidos.
+### Proyectos
+
+| Proyecto | Qué resuelve |
+|---|---|
+| [Rentabilidad logística en e-commerce](https://github.com/ErnestRr/msfabric-ecommerce-delivery) | Arquitectura Medallion y BI para ver el margen real por producto |
+| [Incidencia delictiva municipal](https://github.com/ErnestRr/msfabric-incidencia-delictiva) | Datos de incidencia delictiva municipal en México |
+| [Esperanza de vida vs. PIB per cápita](https://github.com/ErnestRr/esperanza-de-vida-vs-pibpercapita) | Relación entre salud y riqueza por país |
 
 ### Análisis completos
 En [ernestoroldan.com](https://ernestoroldan.com), con metodología y código aquí en GitHub.
