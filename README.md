@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Ernesto Roldán" width="100%">
+  <img src="https://raw.githubusercontent.com/ErnestRr/ErnestRr/main/banner.png" alt="Ernesto Roldán" width="100%">
 </p>
 
 <h2 align="center">Ernesto Roldán</h2>
@@ -18,7 +18,7 @@
 
 | Economía y negocio | Business Intelligence | Datos y modelado |
 |---|---|---|
-| Precios, rentabilidad y mercados | Modelos semánticos y reportes en Power BI y Microsoft Fabric | SQL, Python y econometría |
+| Precios, rentabilidad y mercados, con datos públicos y de empresas | Modelos semánticos y reportes en Power BI y Microsoft Fabric | SQL, Python y econometría |
 
 ### Herramientas
 ![Power BI](https://img.shields.io/badge/Power_BI-4A6785?style=flat-square)
@@ -30,11 +30,28 @@
 
 ### Proyectos
 
+#### Economía, precios y mercados
 | Proyecto | Qué resuelve |
 |---|---|
-| [Rentabilidad logística en e-commerce](https://github.com/ErnestRr/msfabric-ecommerce-delivery) | Arquitectura Medallion y BI para ver el margen real por producto |
-| [Incidencia delictiva municipal](https://github.com/ErnestRr/msfabric-incidencia-delictiva) | Datos de incidencia delictiva municipal en México |
-| [Esperanza de vida vs. PIB per cápita](https://github.com/ErnestRr/esperanza-de-vida-vs-pibpercapita) | Relación entre salud y riqueza por país |
+| [Competidor a 2 km](https://github.com/ErnestRr/mexico-competencia-2km) | ¿Un competidor a 2 km baja los precios? Datos de PROFECO (Quién es Quién en los Precios) |
+| [Prima de precio de Coca-Cola](https://github.com/ErnestRr/mexico-prima-coca-cola) | Prima de precio frente a Pepsi: misma tienda, por presentación y por cadena |
+| [Diferencias de precio entre municipios](https://github.com/ErnestRr/mexico-diferencias-precio-municipios) | Diferencias de precios entre municipios de México |
+| [Presión de costos en el comercio](https://github.com/ErnestRr/p05-presion-costos-comercio) | Exposición de los subsectores comerciales a alzas en mercancías y salarios (INEGI) |
+| [Ciudades más habitables de México](https://github.com/ErnestRr/Most_livable_cities_mexico) | Costo de una canasta comparable y percepción de seguridad en 44 áreas urbanas (PROFECO e INEGI) |
+| [Economía mexicana, primer semestre](https://github.com/ErnestRr/economia_mexicana_1er_semestre) | Panorama de la economía mexicana en el primer semestre |
+
+#### Business Intelligence y Microsoft Fabric
+| Proyecto | Qué resuelve |
+|---|---|
+| [Rentabilidad logística en e-commerce](https://github.com/ErnestRr/msfabric-ecommerce-delivery) | Arquitectura Medallion y BI para optimizar la utilidad logística |
+| [Incidencia delictiva municipal](https://github.com/ErnestRr/msfabric-incidencia-delictiva) | Incidencia delictiva municipal en México |
+| [Reportes en Power BI](https://github.com/ErnestRr/powerbi) | Dashboards y reportes en Power BI |
+
+#### Datos y modelado
+| Proyecto | Qué resuelve |
+|---|---|
+| [Análisis de datos móviles](https://github.com/ErnestRr/process-mobiles-analytics) | Procesamiento y análisis de datos de dispositivos móviles |
+| [Modelos de machine learning](https://github.com/ErnestRr/analisis-de-data) | Clasificación, regresión y recomendación con Python |
 
 ### Análisis completos
 En [ernestoroldan.com](https://ernestoroldan.com), con metodología y código aquí en GitHub.
