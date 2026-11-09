@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ErnestRr/ErnestRr/main/banner.png" alt="Ernesto Roldán" width="100%">
-</p>
-
 <h2 align="center">Ernesto Roldán</h2>
 <p align="center">
   <b>Business Intelligence & Analytics</b><br>
